@@ -13,10 +13,6 @@ import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 import model.statusType;
 
-/**
- *
- * @author hoanh
- */
 public class Table extends  JTable{
 
     public Table() {
